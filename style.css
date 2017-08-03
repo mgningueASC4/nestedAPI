@@ -39,6 +39,38 @@ li{
     text-align: center;
 }
 
+body{
+    text-align: center;
+    background-repeat: repeat;
+    color: white;
+}
+
+h1{
+    font-family: 'Rubik', sans-serif;
+    width: 50%;
+    margin: 0 auto 20px auto;    
+}
+span{
+    font-family: 'Inconsolata', monospace;
+    padding-left: 10px;
+}
+
+h2{
+    font-family: 'VT323', monospace;   
+    font-size: 2em;
+    margin-bottom: 0;
+}
+
+p{
+    font-family: 'Nunito', sans-serif;    
+    margin-top: 5px;
+}
+
+img{
+    border-radius: 50%;
+    width:150px;
+}
+
 .g-signin2{
     position: absolute;
     top: 50%;
